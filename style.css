@@ -1,0 +1,33 @@
+body {
+    background-color: slategray;
+    color: black;
+    font-family: serif, "times new roman", sans-serif;
+    font-size: 19px;
+    text-align: left;
+}
+
+
+.h {
+    color: black;
+    font-size: 30px;
+    background-color: snow;
+    width: 500px;
+
+}
+
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+
+.contentcolor {
+    background-color: greenyellow;
+}
+
+
+.links {
+    background-color: honeydew;
+}
+
