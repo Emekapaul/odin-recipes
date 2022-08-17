@@ -1,18 +1,17 @@
 body {
-    background-color: slategray;
     color: black;
     font-family: serif, "times new roman", sans-serif;
     font-size: 19px;
     text-align: left;
+    max-width: 700px;
+    margin: 0 auto;
+    background-color: whitesmoke;
 }
 
 
 .h {
-    color: black;
+    color: red;
     font-size: 30px;
-    background-color: snow;
-    width: 500px;
-
 }
 
 
@@ -22,12 +21,27 @@ img {
 }
 
 
-.contentcolor {
-    background-color: greenyellow;
+.links {
+    background-color: white;
+    border: 2px solid wheat;
+    border-radius: 20px;
+}
+
+li {
+    padding: 10px;
 }
 
 
-.links {
-    background-color: honeydew;
+.contentcolor {
+    border: 2px solid wheat;
+    border-radius: 20px;
+    background-color: white;
+}
+
+p {
+    border: 2px solid wheat;
+    border-radius: 10px;
+    background-color: white;
+    padding: 10px;
 }
 
